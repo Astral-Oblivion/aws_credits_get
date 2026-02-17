@@ -57,7 +57,7 @@ export default function Contact() {
           </h1>
           <p className="mt-6 text-lg leading-8 text-muted-foreground">
             Interested in optimizing your building's energy consumption? Have
-            questions about VoltEdge? We'd love to hear from you.
+            questions about Zenith? We'd love to hear from you.
           </p>
         </div>
       </section>
@@ -75,10 +75,10 @@ export default function Contact() {
               </CardHeader>
               <CardContent>
                 <a
-                  href="mailto:contact@voltedge-systems.com"
+                  href="mailto:contact@zenith-energy.com"
                   className="text-sm text-accent hover:underline"
                 >
-                  contact@voltedge-systems.com
+                  contact@zenith-energy.com
                 </a>
               </CardContent>
             </Card>
@@ -254,10 +254,10 @@ export default function Contact() {
             We're currently onboarding pilot customers for our beta program.
             Reach out to learn more about participation requirements and benefits.
           </p>
-          <a href="mailto:contact@voltedge-systems.com">
+          <a href="mailto:contact@zenith-energy.com">
             <Button variant="outline" size="lg">
               <Mail className="mr-2 h-4 w-4" />
-              contact@voltedge-systems.com
+              contact@zenith-energy.com
             </Button>
           </a>
         </div>

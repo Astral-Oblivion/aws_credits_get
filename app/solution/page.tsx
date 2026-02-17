@@ -19,9 +19,9 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Solution - VoltEdge Systems",
+  title: "Solution - Zenith Energy Systems",
   description:
-    "Discover how VoltEdge's IoT-powered energy management platform reduces building energy consumption by 20-40% through real-time monitoring and AI optimization.",
+    "Discover how Zenith's IoT-powered energy management platform reduces building energy consumption by 20-40% through real-time monitoring and AI optimization.",
 };
 
 const features = [
@@ -119,7 +119,7 @@ export default function Solution() {
       <section className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl bg-gradient-to-r from-primary-700 to-primary-500 bg-clip-text text-transparent">
-            The VoltEdge Solution
+            The Zenith Solution
           </h1>
           <p className="mt-6 text-lg leading-8 text-muted-foreground">
             A comprehensive IoT and AI platform that transforms buildings into

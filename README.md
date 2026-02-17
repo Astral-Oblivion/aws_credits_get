@@ -1,8 +1,8 @@
-# VoltEdge Systems
+# Zenith Energy Systems
 
 **Intelligent Energy Management for Modern Buildings**
 
-VoltEdge Systems is an IoT-based energy monitoring and optimization platform that helps commercial buildings reduce energy waste by 20-40%. Built with precision engineering principles from ETH Zurich.
+Zenith Energy Systems is an IoT-based energy monitoring and optimization platform that helps commercial buildings reduce energy waste by 20-40%. Built with precision engineering principles from ETH Zurich.
 
 ## Features
 
@@ -75,13 +75,13 @@ This site is optimized for deployment on Vercel:
 
 ## Contact
 
-- **Email:** contact@voltedge-systems.com
+- **Email:** contact@zenith-energy.com
 - **Location:** Zurich, Switzerland
-- **Website:** [voltedge-systems.vercel.app](https://voltedge-systems.vercel.app)
+- **Website:** [zenith-energy.com](https://zenith-energy.com)
 
 ## License
 
-Copyright © 2025 VoltEdge Systems. All rights reserved.
+Copyright © 2025 Zenith Energy Systems. All rights reserved.
 
 ---
 

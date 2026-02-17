@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { FileText } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Terms of Service - VoltEdge Systems",
-  description: "VoltEdge Systems terms of service and usage agreement.",
+  title: "Terms of Service - Zenith Energy Systems",
+  description: "Zenith Energy Systems terms of service and usage agreement.",
 };
 
 export default function Terms() {
@@ -25,7 +25,7 @@ export default function Terms() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">1. Acceptance of Terms</h2>
             <p className="text-muted-foreground leading-relaxed">
-              By accessing and using VoltEdge Systems' website and services, you
+              By accessing and using Zenith Energy Systems' website and services, you
               accept and agree to be bound by these Terms of Service. If you do
               not agree to these terms, please do not use our services.
             </p>
@@ -34,7 +34,7 @@ export default function Terms() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">2. Description of Service</h2>
             <p className="text-muted-foreground leading-relaxed">
-              VoltEdge Systems provides IoT-based energy monitoring and
+              Zenith Energy Systems provides IoT-based energy monitoring and
               optimization services for commercial buildings. Our platform uses
               sensors, edge computing, and machine learning to analyze and
               optimize energy consumption.
@@ -69,7 +69,7 @@ export default function Terms() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">5. Beta Program</h2>
             <p className="text-muted-foreground leading-relaxed">
-              VoltEdge Systems is currently in beta testing. Beta participants
+              Zenith Energy Systems is currently in beta testing. Beta participants
               acknowledge that the service may contain bugs, errors, or
               incomplete features. We appreciate feedback and will work to
               address issues as they arise.
@@ -80,7 +80,7 @@ export default function Terms() {
             <h2 className="text-2xl font-bold mb-4">6. Data Ownership</h2>
             <p className="text-muted-foreground leading-relaxed">
               You retain ownership of all data collected from your building
-              systems. VoltEdge Systems is granted a license to process this
+              systems. Zenith Energy Systems is granted a license to process this
               data solely for the purpose of providing our services. We may use
               anonymized, aggregated data for research and service improvement.
             </p>
@@ -89,9 +89,9 @@ export default function Terms() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">7. Intellectual Property</h2>
             <p className="text-muted-foreground leading-relaxed">
-              All content, features, and functionality of VoltEdge Systems,
+              All content, features, and functionality of Zenith Energy Systems,
               including but not limited to software, algorithms, designs, and
-              trademarks, are owned by VoltEdge Systems and are protected by
+              trademarks, are owned by Zenith Energy Systems and are protected by
               international copyright, trademark, and other intellectual property
               laws.
             </p>
@@ -102,7 +102,7 @@ export default function Terms() {
               8. Limitation of Liability
             </h2>
             <p className="text-muted-foreground leading-relaxed">
-              VoltEdge Systems shall not be liable for any indirect, incidental,
+              Zenith Energy Systems shall not be liable for any indirect, incidental,
               special, consequential, or punitive damages resulting from your use
               of or inability to use the service. Our total liability for any
               claims shall not exceed the amount you paid for the service in the
@@ -122,7 +122,7 @@ export default function Terms() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">10. Energy Savings Disclaimer</h2>
             <p className="text-muted-foreground leading-relaxed">
-              While VoltEdge Systems aims to reduce energy consumption by 20-40%,
+              While Zenith Energy Systems aims to reduce energy consumption by 20-40%,
               actual savings vary based on building characteristics, usage
               patterns, and existing systems. We do not guarantee specific energy
               savings or cost reductions.
@@ -176,10 +176,10 @@ export default function Terms() {
             <p className="mt-4">
               <strong>Email:</strong>{" "}
               <a
-                href="mailto:contact@voltedge-systems.com"
+                href="mailto:contact@zenith-energy.com"
                 className="text-accent hover:underline"
               >
-                contact@voltedge-systems.com
+                contact@zenith-energy.com
               </a>
             </p>
             <p className="mt-2">
@@ -190,7 +190,7 @@ export default function Terms() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">16. Acknowledgment</h2>
             <p className="text-muted-foreground leading-relaxed">
-              By using VoltEdge Systems, you acknowledge that you have read,
+              By using Zenith Energy Systems, you acknowledge that you have read,
               understood, and agree to be bound by these Terms of Service and our
               Privacy Policy.
             </p>

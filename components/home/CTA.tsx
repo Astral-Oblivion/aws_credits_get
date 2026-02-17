@@ -33,10 +33,10 @@ export default function CTA() {
           <p className="mt-8 text-sm text-muted-foreground">
             Questions? Reach out at{" "}
             <a
-              href="mailto:contact@voltedge-systems.com"
+              href="mailto:contact@zenith-energy.com"
               className="text-accent hover:underline"
             >
-              contact@voltedge-systems.com
+              contact@zenith-energy.com
             </a>
           </p>
         </div>

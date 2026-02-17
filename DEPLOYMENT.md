@@ -1,4 +1,4 @@
-# VoltEdge Systems - Deployment Guide
+# Zenith Energy Systems - Deployment Guide
 
 ## Local Testing
 
@@ -33,7 +33,7 @@ npm run start
    - Click "Deploy"
 
 3. **Your site will be live at:**
-   - `https://voltedge-systems.vercel.app` (or similar)
+   - `https://zenith-energy.vercel.app` (or similar)
    - You can add a custom domain later
 
 ### Option 2: Vercel CLI
@@ -72,8 +72,8 @@ After deployment, update the sitemap URL in:
 
 Once deployed, use your site for the AWS Activate application:
 
-**Business Name:** VoltEdge Systems
-**Website:** https://[your-vercel-url].vercel.app
+**Business Name:** Zenith Energy Systems
+**Website:** https://zenith-energy.com
 **Description:** IoT-based energy management platform for commercial buildings
 
 **AWS Services Needed:**
@@ -98,7 +98,7 @@ AWS_REGION=eu-central-1
 
 ## Custom Domain (Optional)
 
-To add a custom domain (e.g., voltedge-systems.com):
+To add a custom domain (e.g., zenith-energy.com):
 
 1. Purchase domain from registrar (Namecheap, GoDaddy, etc.)
 2. In Vercel Dashboard: Settings → Domains

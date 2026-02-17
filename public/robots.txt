@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://voltedge-systems.vercel.app/sitemap.xml
+Sitemap: https://zenith-energy.com/sitemap.xml

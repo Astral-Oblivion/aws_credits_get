@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { Shield } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - VoltEdge Systems",
-  description: "VoltEdge Systems privacy policy and data protection practices.",
+  title: "Privacy Policy - Zenith Energy Systems",
+  description: "Zenith Energy Systems privacy policy and data protection practices.",
 };
 
 export default function Privacy() {
@@ -25,7 +25,7 @@ export default function Privacy() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold mb-4">Introduction</h2>
             <p className="text-muted-foreground leading-relaxed">
-              VoltEdge Systems ("we", "our", or "us") is committed to protecting
+              Zenith Energy Systems ("we", "our", or "us") is committed to protecting
               your privacy. This Privacy Policy explains how we collect, use,
               disclose, and safeguard your information when you visit our
               website or use our services.
@@ -164,10 +164,10 @@ export default function Privacy() {
             <p className="mt-4">
               <strong>Email:</strong>{" "}
               <a
-                href="mailto:contact@voltedge-systems.com"
+                href="mailto:contact@zenith-energy.com"
                 className="text-accent hover:underline"
               >
-                contact@voltedge-systems.com
+                contact@zenith-energy.com
               </a>
             </p>
             <p className="mt-2">

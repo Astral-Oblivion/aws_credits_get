@@ -12,7 +12,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Zap className="h-6 w-6 text-accent" />
-              <span className="text-lg font-bold">VoltEdge Systems</span>
+              <span className="text-lg font-bold">Zenith Energy Systems</span>
             </div>
             <p className="text-sm text-muted-foreground mb-4">
               Intelligent Energy Management for Modern Buildings
@@ -25,10 +25,10 @@ export default function Footer() {
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
                 <a
-                  href="mailto:contact@voltedge-systems.com"
+                  href="mailto:contact@zenith-energy.com"
                   className="hover:text-accent transition-colors"
                 >
-                  contact@voltedge-systems.com
+                  contact@zenith-energy.com
                 </a>
               </div>
             </div>
@@ -96,7 +96,7 @@ export default function Footer() {
 
         <div className="mt-8 border-t pt-8">
           <p className="text-center text-xs text-muted-foreground">
-            &copy; {currentYear} VoltEdge Systems. All rights reserved.
+            &copy; {currentYear} Zenith Energy Systems. All rights reserved.
             Research-backed by ETH Zurich.
           </p>
         </div>

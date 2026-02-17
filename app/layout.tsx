@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "VoltEdge Systems - Intelligent Energy Management for Modern Buildings",
+  title: "Zenith Energy Systems - Intelligent Energy Management for Modern Buildings",
   description:
     "IoT-based energy monitoring and optimization platform helping commercial buildings reduce energy waste by 20-40%. Built with precision by ETH Zurich research.",
   keywords: [
@@ -21,14 +21,14 @@ export const metadata: Metadata = {
     "smart buildings",
     "sustainability",
   ],
-  authors: [{ name: "VoltEdge Systems" }],
+  authors: [{ name: "Zenith Energy Systems" }],
   openGraph: {
-    title: "VoltEdge Systems - Intelligent Energy Management",
+    title: "Zenith Energy Systems - Intelligent Energy Management",
     description:
       "Reduce building energy waste by 20-40% with AI-powered IoT monitoring",
     type: "website",
     locale: "en_US",
-    siteName: "VoltEdge Systems",
+    siteName: "Zenith Energy Systems",
   },
 };
 
