@@ -12,7 +12,7 @@ export default function Hero() {
           </h1>
           <p className="mt-6 text-lg leading-8 text-muted-foreground animate-fade-in">
             Commercial buildings waste 20-40% of their energy on inefficient
-            systems. Zenith uses IoT sensors and AI to identify waste,
+            systems. Alpine uses IoT sensors and AI to identify waste,
             optimize consumption, and cut costs automatically.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6 animate-fade-in">

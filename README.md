@@ -1,8 +1,8 @@
-# Zenith Energy Systems
+# Alpine Energy Systems
 
 **Intelligent Energy Management for Modern Buildings**
 
-Zenith Energy Systems is an IoT-based energy monitoring and optimization platform that helps commercial buildings reduce energy waste by 20-40%. Built with precision engineering principles from ETH Zurich.
+Alpine Energy Systems is an IoT-based energy monitoring and optimization platform that helps commercial buildings reduce energy waste by 20-40%. Built with precision engineering principles from ETH Zurich.
 
 ## Features
 
@@ -75,13 +75,13 @@ This site is optimized for deployment on Vercel:
 
 ## Contact
 
-- **Email:** contact@zenith-energy.com
+- **Email:** contact@alpine-energy-systems.com
 - **Location:** Zurich, Switzerland
-- **Website:** [zenith-energy.com](https://zenith-energy.com)
+- **Website:** [alpine-energy-systems.com](https://alpine-energy-systems.com)
 
 ## License
 
-Copyright © 2025 Zenith Energy Systems. All rights reserved.
+Copyright © 2025 Alpine Energy Systems. All rights reserved.
 
 ---
 

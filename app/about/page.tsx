@@ -3,9 +3,9 @@ import { Award, Users, Cpu, Zap } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 
 export const metadata: Metadata = {
-  title: "About Us - Zenith Energy Systems",
+  title: "About Us - Alpine Energy Systems",
   description:
-    "Learn about Zenith Energy Systems, founded by ETH Zurich researchers to revolutionize building energy management through IoT and AI.",
+    "Learn about Alpine Energy Systems, founded by ETH Zurich researchers to revolutionize building energy management through IoT and AI.",
 };
 
 const technologies = [
@@ -42,7 +42,7 @@ export default function About() {
       <section className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl bg-gradient-to-r from-primary-700 to-primary-500 bg-clip-text text-transparent">
-            About Zenith Energy Systems
+            About Alpine Energy Systems
           </h1>
           <p className="mt-6 text-lg leading-8 text-muted-foreground">
             We are on a mission to make buildings smarter, greener, and more
@@ -92,7 +92,7 @@ export default function About() {
           <div className="max-w-3xl">
             <h2 className="text-3xl font-bold mb-6">Founded by ETH Zurich Research</h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              Zenith Energy Systems was founded by{" "}
+              Alpine Energy Systems was founded by{" "}
               <span className="font-semibold text-foreground">
                 Richard Windesheim
               </span>
@@ -107,13 +107,13 @@ export default function About() {
               expensive or lacked the intelligence needed for real optimization.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              This inspired the creation of Zenith Energy Systems - a platform that
+              This inspired the creation of Alpine Energy Systems - a platform that
               combines affordable IoT hardware with sophisticated machine
               learning to make intelligent energy management accessible to
               buildings of all sizes.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Today, Zenith is backed by research from ETH Zurich's Electrical
+              Today, Alpine is backed by research from ETH Zurich's Electrical
               Engineering Department and is being piloted in commercial
               buildings across Switzerland.
             </p>

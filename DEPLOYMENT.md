@@ -1,4 +1,4 @@
-# Zenith Energy Systems - Deployment Guide
+# Alpine Energy Systems - Deployment Guide
 
 ## Local Testing
 
@@ -72,8 +72,8 @@ After deployment, update the sitemap URL in:
 
 Once deployed, use your site for the AWS Activate application:
 
-**Business Name:** Zenith Energy Systems
-**Website:** https://zenith-energy.com
+**Business Name:** Alpine Energy Systems
+**Website:** https://alpine-energy-systems.com
 **Description:** IoT-based energy management platform for commercial buildings
 
 **AWS Services Needed:**
@@ -91,14 +91,14 @@ If you add backend functionality, create `.env.local`:
 
 ```bash
 # Example environment variables
-NEXT_PUBLIC_API_URL=https://api.voltedge-systems.com
+NEXT_PUBLIC_API_URL=https://api.alpine-energy-systems.com
 DATABASE_URL=postgresql://...
 AWS_REGION=eu-central-1
 ```
 
 ## Custom Domain (Optional)
 
-To add a custom domain (e.g., zenith-energy.com):
+To add a custom domain (e.g., alpine-energy-systems.com):
 
 1. Purchase domain from registrar (Namecheap, GoDaddy, etc.)
 2. In Vercel Dashboard: Settings → Domains

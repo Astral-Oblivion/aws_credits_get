@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://zenith-energy.com';
+  const baseUrl = 'https://alpine-energy-systems.com';
 
   return [
     {

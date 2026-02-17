@@ -23,7 +23,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-2 -m-1.5 p-1.5">
             <Zap className="h-8 w-8 text-accent" />
             <span className="text-xl font-bold bg-gradient-to-r from-primary-700 to-primary-500 bg-clip-text text-transparent">
-              Zenith Energy Systems
+              Alpine Energy Systems
             </span>
           </Link>
         </div>
