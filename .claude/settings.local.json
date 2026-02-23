@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx create-next-app@latest . --typescript --tailwind --app --eslint --import-alias \"@/*\")"
+      "Bash(npx create-next-app@latest . --typescript --tailwind --app --eslint --import-alias \"@/*\")",
+      "WebFetch(domain:aws.amazon.com)"
     ]
   }
 }

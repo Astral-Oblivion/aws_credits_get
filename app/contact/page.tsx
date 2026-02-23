@@ -94,9 +94,6 @@ export default function Contact() {
                 <p className="text-sm text-muted-foreground">
                   Zurich, Switzerland
                 </p>
-                <p className="text-xs text-muted-foreground mt-1">
-                  ETH Zurich affiliated
-                </p>
               </CardContent>
             </Card>
 

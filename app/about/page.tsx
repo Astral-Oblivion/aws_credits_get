@@ -5,7 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 export const metadata: Metadata = {
   title: "About Us - Alpine Energy Systems",
   description:
-    "Learn about Alpine Energy Systems, founded by ETH Zurich researchers to revolutionize building energy management through IoT and AI.",
+    "Learn about Alpine Energy Systems, founded in Zurich to revolutionize building energy management through IoT and AI.",
 };
 
 const technologies = [
@@ -90,7 +90,7 @@ export default function About() {
       <section className="mx-auto max-w-7xl px-6 lg:px-8 mt-24">
         <div className="bg-muted/40 rounded-2xl p-8 md:p-12">
           <div className="max-w-3xl">
-            <h2 className="text-3xl font-bold mb-6">Founded by ETH Zurich Research</h2>
+            <h2 className="text-3xl font-bold mb-6">Our Story</h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
               Alpine Energy Systems was founded by{" "}
               <span className="font-semibold text-foreground">
@@ -113,9 +113,8 @@ export default function About() {
               buildings of all sizes.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Today, Alpine is backed by research from ETH Zurich's Electrical
-              Engineering Department and is being piloted in commercial
-              buildings across Switzerland.
+              Today, Alpine is in active development and is being piloted in
+              commercial buildings across Switzerland.
             </p>
           </div>
         </div>
@@ -138,8 +137,8 @@ export default function About() {
             </CardHeader>
             <CardContent>
               <p className="text-sm text-muted-foreground">
-                Electrical Engineering student at ETH Zurich. Specializes in
-                IoT systems, energy efficiency, and machine learning.
+                Electrical Engineering student specializing in IoT systems,
+                energy efficiency, and machine learning.
               </p>
             </CardContent>
           </Card>

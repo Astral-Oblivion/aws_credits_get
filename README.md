@@ -2,7 +2,7 @@
 
 **Intelligent Energy Management for Modern Buildings**
 
-Alpine Energy Systems is an IoT-based energy monitoring and optimization platform that helps commercial buildings reduce energy waste by 20-40%. Built with precision engineering principles from ETH Zurich.
+Alpine Energy Systems is an IoT-based energy monitoring and optimization platform that helps commercial buildings reduce energy waste by 20-40%.
 
 🌐 **Live Site:** [alpine-energy-systems.com](https://alpine-energy-systems.com)
 
@@ -85,6 +85,3 @@ This site is optimized for deployment on Vercel:
 
 Copyright © 2025 Alpine Energy Systems. All rights reserved.
 
----
-
-Research-backed by ETH Zurich Electrical Engineering Department

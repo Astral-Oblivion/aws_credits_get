@@ -12,7 +12,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Alpine Energy Systems - Intelligent Energy Management for Modern Buildings",
   description:
-    "IoT-based energy monitoring and optimization platform helping commercial buildings reduce energy waste by 20-40%. Built with precision by ETH Zurich research.",
+    "IoT-based energy monitoring and optimization platform helping commercial buildings reduce energy waste by 20-40%.",
   keywords: [
     "energy management",
     "IoT",

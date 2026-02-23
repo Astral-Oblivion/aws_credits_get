@@ -33,11 +33,11 @@ export default function Trust() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-            Proven Results, Backed by Research
+            Proven Results, Built for Impact
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            Developed at ETH Zurich and tested in real-world commercial
-            buildings across Switzerland and Europe.
+            Designed and tested in real-world commercial buildings across
+            Switzerland and Europe.
           </p>
         </div>
 
@@ -61,15 +61,6 @@ export default function Trust() {
           ))}
         </div>
 
-        {/* ETH Zurich Badge */}
-        <div className="mt-16 text-center">
-          <div className="inline-flex items-center gap-2 rounded-full border-2 border-primary-200 bg-primary-50 px-6 py-3">
-            <Award className="h-5 w-5 text-primary-600" />
-            <span className="text-sm font-semibold text-primary-700">
-              Research-backed by ETH Zurich Electrical Engineering Department
-            </span>
-          </div>
-        </div>
       </div>
     </section>
   );
