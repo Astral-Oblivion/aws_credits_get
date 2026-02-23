@@ -97,7 +97,6 @@ export default function Footer() {
         <div className="mt-8 border-t pt-8">
           <p className="text-center text-xs text-muted-foreground">
             &copy; {currentYear} Alpine Energy Systems. All rights reserved.
-            Research-backed by ETH Zurich.
           </p>
         </div>
       </div>

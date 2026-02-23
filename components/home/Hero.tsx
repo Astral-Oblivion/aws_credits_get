@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="relative overflow-hidden bg-gradient-to-b from-primary-50 to-background py-20 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
-          <h1 className="text-4xl font-bold tracking-tight sm:text-6xl bg-gradient-to-r from-primary-700 to-primary-500 bg-clip-text text-transparent animate-fade-in">
+          <h1 className="text-4xl font-bold tracking-tight sm:text-6xl bg-gradient-to-r from-primary-700 to-primary-500 bg-clip-text text-transparent animate-fade-in pb-2">
             Intelligent Energy Management for Modern Buildings
           </h1>
           <p className="mt-6 text-lg leading-8 text-muted-foreground animate-fade-in">
