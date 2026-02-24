@@ -113,8 +113,7 @@ export default function About() {
               buildings of all sizes.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Today, Alpine is in active development, targeting commercial
-              buildings across Switzerland and the broader DACH region.
+              Today, Alpine is in active development.
             </p>
           </div>
         </div>
