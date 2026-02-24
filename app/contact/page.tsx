@@ -248,7 +248,7 @@ export default function Contact() {
             Interested in Early Access?
           </h2>
           <p className="text-muted-foreground mb-6">
-            We're currently onboarding pilot customers for our beta program.
+            We're looking for early adopters to join our beta program.
             Reach out to learn more about participation requirements and benefits.
           </p>
           <a href="mailto:contact@alpine-energy-systems.com">

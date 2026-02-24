@@ -33,11 +33,11 @@ export default function Trust() {
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-            Proven Results, Built for Impact
+            Built for Impact
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            Designed and tested in real-world commercial buildings across
-            Switzerland and Europe.
+            Designed for commercial buildings across Switzerland and Europe,
+            with projections based on industry research and energy benchmarks.
           </p>
         </div>
 

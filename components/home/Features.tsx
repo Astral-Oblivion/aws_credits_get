@@ -21,9 +21,9 @@ const features = [
     icon: Plug,
   },
   {
-    name: "Proven Cost Savings",
+    name: "Significant Cost Savings",
     description:
-      "Reduce energy bills by 20-40% on average. Most installations pay for themselves within 12-18 months through savings alone.",
+      "Projected to reduce energy bills by 20-40% based on industry benchmarks. Target payback period of 12-18 months through energy savings alone.",
     icon: TrendingDown,
   },
 ];

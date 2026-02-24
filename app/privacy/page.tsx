@@ -97,7 +97,7 @@ export default function Privacy() {
               <li>Secure cloud infrastructure (AWS)</li>
               <li>Role-based access control</li>
               <li>Regular security audits and updates</li>
-              <li>GDPR and ISO 27001 compliance</li>
+              <li>GDPR-compliant data handling</li>
             </ul>
           </section>
 

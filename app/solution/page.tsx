@@ -58,7 +58,7 @@ const features = [
   {
     name: "Enterprise Security",
     description:
-      "Bank-grade encryption, secure data transmission, role-based access control, and compliance with GDPR and ISO 27001 standards.",
+      "Bank-grade encryption, secure data transmission, and role-based access control. Built with GDPR compliance in mind.",
     icon: Shield,
   },
 ];
